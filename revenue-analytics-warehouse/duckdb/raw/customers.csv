@@ -1,0 +1,6 @@
+customer_id,signup_date,state,acquisition_channel
+C001,2024-11-15,TN,paid_search
+C002,2024-12-02,CA,organic
+C003,2025-01-01,NY,affiliate
+C004,2025-01-12,TX,paid_social
+C005,2025-02-05,FL,organic
