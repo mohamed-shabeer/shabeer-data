@@ -1,0 +1,9 @@
+order_id,order_ts,customer_id,merchant_id,currency,order_amount,discount_amount,tax_amount,shipping_amount,channel,payment_method
+1001,2025-01-02 10:12:00,C001,M010,USD,129.99,10.00,8.45,0.00,ecommerce,affirm
+1002,2025-01-03 12:30:00,C002,M020,USD,58.00,0.00,3.77,5.99,in_store,card
+1003,2025-01-05 09:05:00,C001,M010,USD,240.50,20.00,15.63,0.00,ecommerce,affirm
+1004,2025-01-10 18:40:00,C003,M030,USD,19.99,0.00,1.30,3.99,ecommerce,card
+1005,2025-01-18 14:22:00,C004,M020,USD,310.00,25.00,18.85,0.00,telesales,affirm
+1006,2025-02-01 11:10:00,C002,M010,USD,75.25,0.00,4.89,0.00,ecommerce,card
+1007,2025-02-11 16:55:00,C005,M030,USD,145.00,5.00,9.10,0.00,in_store,card
+1008,2025-02-20 08:33:00,C001,M020,USD,42.00,0.00,2.73,4.99,ecommerce,affirm
