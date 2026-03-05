@@ -1,6 +1,7 @@
 # Mohamed Shabeer – Data Analytics Portfolio
 
 Portfolio of SQL, Snowflake, and analytics projects focused on turning data into actionable business insights.
+Tools: SQL • Snowflake • dbt • Python • DuckDB • Tableau • BigQuery
 
 ## Skills
 - SQL
@@ -14,26 +15,26 @@ Portfolio of SQL, Snowflake, and analytics projects focused on turning data into
 
 ## Featured Projects
 
+### Revenue Analytics Warehouse (dbt + DuckDB)
+[View Project](./revenue-analytics-warehouse)
+
+End-to-end analytics engineering project implementing a modern data warehouse pipeline: raw CSV ingestion → staging transformations → star schema marts using dbt. Includes data quality tests and cohort retention modeling.
+
 ### Revenue Analytics Dashboard
 [View Project](./revenue-analytics-dashboard)
 
-Built dashboards to track revenue, engagement, and performance trends using SQL and BI tools.
+SQL analysis and dashboard modeling to track revenue performance, customer counts, and category trends.
 
 ### Customer Segmentation Analysis
 [View Project](./customer-segmentation)
 
-Customer grouping analysis using SQL and Python to identify high-value segments.
-
-### Revenue Analytics Warehouse (dbt + DuckDB)
-[View Project](./revenue-analytics-warehouse)
-
-End-to-end analytics engineering project: raw CSV → staging → star schema marts, dbt tests, and cohort retention modeling.
+Customer segmentation using purchase frequency and spend patterns to identify high-value customer groups.
 
 ### Snowflake Data Pipeline
-Designed ETL pipelines to clean, transform, and load raw data into Snowflake for analytics.
+Example ETL pipeline design for ingesting, transforming, and modeling data in Snowflake environments.
 
 ### Retail Sales Analysis
-Explored product performance, seasonality, and pricing patterns using SQL and Python.
+SQL exploration of product performance, seasonality patterns, and category revenue trends.
 
 ## Contact
 LinkedIn: https://linkedin.com/in/mohd-shabeer
