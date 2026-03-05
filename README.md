@@ -18,6 +18,11 @@ Portfolio of SQL, Snowflake, and analytics projects focused on turning data into
 
 SQL analysis of revenue performance and customer counts by category.
 
+### Customer Segmentation Analysis
+[View Project](./customer-segmentation)
+
+Customer grouping analysis using SQL and Python to identify high-value segments.
+
 ### Revenue Analytics Dashboard
 Built dashboards to track revenue, engagement, and performance trends using SQL and BI tools.
 
